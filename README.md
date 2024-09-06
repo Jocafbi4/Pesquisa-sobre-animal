@@ -1,4 +1,4 @@
-### **Descubra o Mundo Animal do Brasil!** 
+### **Descubra o Mundo Animal do Brasil! - Imersão Dev com o Google Gemini** 
 
 **O que é essa aplicação?**
 
